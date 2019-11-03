@@ -19,5 +19,9 @@ Before you begin, ensure you have installed:
 To install Flutter SDK, run:
 
 ```
+pip install -r requirements.txt
+```
+
+```
 python flutter_install.py
 ```
