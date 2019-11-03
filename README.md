@@ -10,7 +10,7 @@ Additional line of information text about what the project does. It should be ar
 
 ## Prerequisities
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure you have installed:
 
 * Python 3
 
