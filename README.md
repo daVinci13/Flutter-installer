@@ -25,3 +25,11 @@ pip install -r requirements.txt
 ```
 python flutter_install.py
 ```
+
+## TODO:
+
+Dynamically get latest Flutter SDK link.
+
+## Important note:
+
+I know it looks stupid, but it works!
